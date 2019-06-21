@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to change an EditForm editor's value
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e14/)**
+<!-- run online end -->
 
 
 <p>Change the MinLevel field name, and the same value will be assigned to the MaxLevel value.</p>
